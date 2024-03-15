@@ -9,5 +9,9 @@
     "@type" : null,
     "@id" : "https://febpi.github.io/beispiel20240315febpi/manifests/info.json",
     "label" : null
+  }, {
+    "@type" : null,
+    "@id" : "https://febpi.github.io/beispiel20240315febpi/manifests/Beisp",
+    "label" : null
   } ]
 }
