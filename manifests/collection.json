@@ -21,5 +21,9 @@
     "@type" : null,
     "@id" : "https://febpi.github.io/beispiel20240315febpi/manifests/etwas.json",
     "label" : null
+  }, {
+    "@type" : null,
+    "@id" : "https://febpi.github.io/beispiel20240315febpi/manifests/abc.json",
+    "label" : null
   } ]
 }
