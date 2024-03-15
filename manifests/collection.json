@@ -25,5 +25,9 @@
     "@type" : null,
     "@id" : "https://febpi.github.io/beispiel20240315febpi/manifests/abc.json",
     "label" : null
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://febpi.github.io/beispiel20240315febpi/manifests/manifest.json",
+    "label" : "Basel, Pharmaziemuseum der Universität Basel, Cod. H25"
   } ]
 }
